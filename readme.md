@@ -1,6 +1,6 @@
-# 💊 Medicine OCR & Information Retrieval System
+# Medicine OCR & Information Retrieval System
 
-## 📌 Overview
+## Overview
 
 This project is an intelligent system that:
 
@@ -18,23 +18,23 @@ The system is designed to work even with **partial, noisy, or damaged images**.
 
 ---
 
-## 🚀 Features
+##  Features
 
-* 📷 OCR-based text extraction (EasyOCR)
-* 🧹 Text cleaning and normalization
-* 🧠 Keyword extraction from noisy OCR output
-* 🔍 Fuzzy matching using RapidFuzz
-* ⚖️ Weighted scoring system:
+* OCR-based text extraction (EasyOCR)
+* Text cleaning and normalization
+* Keyword extraction from noisy OCR output
+* Fuzzy matching using RapidFuzz
+* Weighted scoring system:
 
   * Medicine name match
   * Company name match
   * Dosage detection (e.g., 500mg)
-* 📊 Confidence scoring
-* ❌ Safe failure handling ("Medicine not found")
+* Confidence scoring
+* Safe failure handling ("Medicine not found")
 
 ---
 
-## 🏗️ Project Structure
+## Project Structure
 
 ```
 medicine-ocr-system/
@@ -59,7 +59,7 @@ medicine-ocr-system/
 
 ---
 
-## ⚙️ Installation
+## Installation
 
 ### 1. Clone the repository
 
