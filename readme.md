@@ -98,7 +98,7 @@ pip install -r requirements.txt
 
 ---
 
-## ▶ Usage
+## Usage
 
 1. Place your test image inside:
 
